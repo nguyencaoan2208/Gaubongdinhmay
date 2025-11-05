@@ -180,6 +180,7 @@ p.center-align{
 .category-banners .banner {
   min-width: 100%; aspect-ratio: 16/8;
   flex-shrink: 0;
+  border-radius: 16px; overflow: hidden;
 }
 
 .category-banners .banner img {
